@@ -16,6 +16,11 @@ body
     
 }
 
+#subtitle
+{
+    color: black;
+}
+
 #container h1
 {
     font-size: 20px;
