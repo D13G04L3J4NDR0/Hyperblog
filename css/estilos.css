@@ -30,3 +30,13 @@ body
     margin: 0;
     padding: 0.5em; 
 }
+
+#parrafo_rojo
+{
+    color:#f00;
+}
+
+#parrafo_azul
+{
+    color: #00F;
+}
