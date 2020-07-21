@@ -18,7 +18,8 @@ body
 
 #subtitle
 {
-    color: black;
+    color: #fff;
+    font-family: cursive;
 }
 
 #container h1
@@ -35,4 +36,3 @@ body
     margin: 0;
     padding: 0.5em; 
 }
-
